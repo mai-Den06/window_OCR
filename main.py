@@ -11,7 +11,7 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 # The window name is the name of the window that you want to capture.
 # You can run the show_window_names.py script to get the names of all the windows that are currently open.
-window_name = "(532) 【リメイク版Ib】※ネタバレ注意※圧倒的な記憶力と推理力を発揮しリスナーも気付かない箇所に初見で気付く儒烏風亭らでんがすごすぎたｗｗ【ホロライブ/儒烏風亭らでん/ReGLOSS/切り抜き】 - YouTube - Google Chrome"
+window_name = ""
 wincap = WindowCapture(window_name)
 ocr_processor = OCRProcessor()
 
