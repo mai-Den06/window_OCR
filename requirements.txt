@@ -1,0 +1,6 @@
+paddleocr
+opencv-python
+numpy
+pygetwindow
+mss
+pywin32
